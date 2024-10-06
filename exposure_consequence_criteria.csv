@@ -1,0 +1,71 @@
+HABITAT NAME;Kelp_Forest_Mora_2020p2;;;CRITERIA TYPE
+HABITAT RESILIENCE ATTRIBUTES;RATING;DQ;WEIGHT;E/C
+recruitment rate;2;3;1;C
+natural mortality rate;2;3;1;C
+connectivity rate;1;1;1;C
+recovery time;2;3;1;C
+;;;;
+HABITAT STRESSOR OVERLAP PROPERTIES;;;;
+AAA_2020AEp;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;1;1;C
+change in area rating;3;1;1;C
+change in structure rating;3;1;1;C
+temporal overlap rating;3;1;1;E
+management effectiveness;2;2;1;E
+intensity rating;3;2;1;E
+;;;;
+CCAA_2020AEp;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;1;1;C
+change in area rating;3;1;1;C
+change in structure rating;3;1;1;C
+temporal overlap rating;3;1;1;E
+management effectiveness;2;2;1;E
+intensity rating;3;2;1;E
+;;;;
+fl_aqua_rc-HRA;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;1;1;C
+change in area rating;1;1;1;C
+change in structure rating;1;1;1;C
+temporal overlap rating;3;1;1;E
+management effectiveness;2;2;1;E
+intensity rating;spatially_explicit_layers\fl_aqua_rc-HRA.tif;1;1;E
+;;;;
+fl_art_rc-HRA;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;1;3;C
+change in area rating;1;1;3;C
+change in structure rating;1;1;3;C
+temporal overlap rating;3;1;3;E
+management effectiveness;2;2;3;E
+intensity rating;spatially_explicit_layers\fl_art_rc-HRA.tif;1;3;E
+;;;;
+fl_ind_rc-HRA;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;1;1;C
+change in area rating;1;1;1;C
+change in structure rating;1;1;1;C
+temporal overlap rating;3;1;1;E
+management effectiveness;3;1;1;E
+intensity rating;spatially_explicit_layers\fl_ind_rc-HRA.tif;1;1;E
+;;;;
+fl_transp_rc-HRA;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;1;2;C
+change in area rating;1;1;2;C
+change in structure rating;1;1;2;C
+temporal overlap rating;3;1;2;E
+management effectiveness;2;2;2;E
+intensity rating;spatially_explicit_layers\fl_transp_rc-HRA.tif;1;2;E
+;;;;
+ben_45_pres;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;3;2;C
+change in area rating;2;3;2;C
+change in structure rating;2;3;2;C
+temporal overlap rating;3;3;2;E
+management effectiveness;3;3;2;E
+intensity rating;spatially_explicit_layers\ben_45_pres_r.tif;3;2;E
+;;;;
+sst_45_pres;RATING;DQ;WEIGHT;E/C
+frequency of disturbance;3;3;2;C
+change in area rating;2;3;2;C
+change in structure rating;2;3;2;C
+temporal overlap rating;3;3;2;E
+management effectiveness;3;3;2;E
+intensity rating;spatially_explicit_layers\sst_45_pres_r.tif;3;2;E

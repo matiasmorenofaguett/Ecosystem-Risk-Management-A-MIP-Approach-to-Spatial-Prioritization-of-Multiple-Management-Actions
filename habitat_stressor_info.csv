@@ -1,0 +1,10 @@
+NAME;PATH;TYPE;STRESSOR BUFFER (meters)
+Kelp_Forest_Mora_2020p2;habitat_layers\Kelp_Forest_Mora_2020p2.tif;habitat;
+AAA_2020AEp;stressor_layers\AAA_2020AEp.tif;stressor;0
+CCAA_2020AEp;stressor_layers\CCAA_2020AEp.tif;stressor;0
+fl_aqua_rc-HRA;spatially_explicit_layers\fl_aqua_rc-HRA.tif;stressor;0
+fl_art_rc-HRA;spatially_explicit_layers\fl_art_rc-HRA.tif;stressor;0
+fl_ind_rc-HRA;spatially_explicit_layers\fl_ind_rc-HRA.tif;stressor;0
+fl_transp_rc-HRA;spatially_explicit_layers\fl_transp_rc-HRA.tif;stressor;0
+ben_45_pres;spatially_explicit_layers\ben_45_pres_r.tif;stressor;0
+sst_45_pres;spatially_explicit_layers\sst_45_pres_r.tif;stressor;0
